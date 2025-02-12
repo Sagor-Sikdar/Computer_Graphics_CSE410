@@ -47,7 +47,6 @@ This assignment focuses on drawing and updating 2D Hermite curves. It uses contr
    
 3. **Geometry Toggle**
    - Toggle the display of control points and the geometry of the curve using the keyboard.
-   - 
 ---
 
 ## Assignment 3 - Raster-Based Graphics Pipeline
